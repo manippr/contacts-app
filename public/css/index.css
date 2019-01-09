@@ -1,0 +1,48 @@
+.body{
+  font-family: sans-serif;
+  font-style: normal;
+  margin: 0 auto;
+  width: 100%;
+}
+
+#page_title{
+  color: cadetblue;
+  padding: 10px;
+  text-align: center;
+}
+
+
+#page_menu{
+  padding: 20px;
+  text-align: center;
+  background: beige;
+}
+
+#page_menu a {
+  text-decoration: none;
+  color: cadetblue;
+  padding: 10px;
+  border: 2px cadetblue;
+  font-size: large;
+}
+
+#page_content{
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+#page_content table{
+  width: 100%;
+  padding: 0 10%;
+}
+
+#page_content table tr th{
+  color: darkgoldenrod;
+  font-size: larger;
+}
+
+#page_content table tr{
+  height: 30px;
+  font-size: larger;
+}
